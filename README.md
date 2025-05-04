@@ -37,7 +37,7 @@ A simple **Java-based console application** for booking travel packages, hotels,
 
 ## 🗂️ File Structure
 
-- BookingSystem.java: Main driver file
+- Main.java: Main driver file (Booking System)
 - User.java (User class): booking and viewing packages
 - Admin.java (Admin class): adding/viewing packages and bookings
 - TourPackage.java: Data structure for tour packages
