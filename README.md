@@ -96,4 +96,8 @@ java Main
 ## 📌 Notes
 - Booking IDs are auto-generated.
 - Hotel booking is optional — stored only when selected.
+<<<<<<< HEAD
 - Admin has exclusive access to add/view bookings.
+=======
+- Admin has exclusive access to add/view bookings.
+>>>>>>> 6ef6fdfc693c6eee17c3986659d23ea71ea352a6
