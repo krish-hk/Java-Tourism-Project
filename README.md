@@ -1,4 +1,4 @@
-# 🧳 Smart Tourism and Tour Booking System
+# 🧳 Smart Tourism and Hotel Booking System
 A simple **Java-based console application** for booking travel packages, hotels, and guided tours. This system allows both **users** and **admins** to interact with the platform in different roles.
 
 ---
